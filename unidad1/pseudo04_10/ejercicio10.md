@@ -1,4 +1,4 @@
-# Ejercicio 20: Inversor de señal digital (Compuerta NOT)
+# Ejercicio 10: Inversor de señal digital (Compuerta NOT)
 ## Enunciado
 
 Desarrolla la lógica de un **módulo inyector de fallas** que reciba una señal digital de control y genere como salida la **señal invertida**.
