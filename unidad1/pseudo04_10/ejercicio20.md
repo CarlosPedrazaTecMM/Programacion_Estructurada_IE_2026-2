@@ -23,6 +23,6 @@ Implementar la lógica de una **compuerta NOT** para invertir una señal digital
 5. se evalua la señal  si es 1 se invierte a 0
 6. mostrar la salida
 
-## Ejercicio
+## ARCHIVO
 
-**Archivo DFD:** [EJERCICIO04_10_20.dfd](ejercicios/EJERCICIO04_10_20.dfd)
+**Archivo DFD:** [Descargar DFD](EJERCICIO_04_10_20.dfd)
