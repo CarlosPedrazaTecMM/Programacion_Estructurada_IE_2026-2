@@ -1,5 +1,4 @@
 # Ejercicio 20: Inversor de señal digital (Compuerta NOT)
-[]
 ## Enunciado
 
 Desarrolla la lógica de un **módulo inyector de fallas** que reciba una señal digital de control y genere como salida la **señal invertida**.
@@ -23,3 +22,7 @@ Implementar la lógica de una **compuerta NOT** para invertir una señal digital
 4. se muestra en pantalla la señal almacenada
 5. se evalua la señal  si es 1 se invierte a 0
 6. mostrar la salida
+
+## Ejercicio
+
+**Archivo DFD:** [EJERCICIO04_10_20.dfd](ejercicios/EJERCICIO04_10_20.dfd)
