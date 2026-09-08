@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+'Favor de Escribir el valor de voltaje de su dispositivo TTL'
+5
+1
+7
+VOLTAJE
+7
+0
+1
+11
+VOLTAJE >=2
+4
+1
+16
+'VOLTAJE EN LOW'
+13
+7
+0
+1
+11
+VOLTAJE <=5
+4
+1
+14
+'SOBREVOLTAJE'
+13
+4
+1
+17
+'VOLTAJE EN HIGH'
+13
+13
+1
