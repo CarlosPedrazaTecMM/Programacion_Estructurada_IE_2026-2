@@ -25,4 +25,4 @@ Un contador de pulsos es un sistema que registra cuántas veces ocurre una deter
 
 ## ARCHIVO     
 
-**Archivo DFD:** [Descargar DFD]()
+**Archivo DFD:** [Descargar DFD](EJERCICIOS04_10_4.dfd)
