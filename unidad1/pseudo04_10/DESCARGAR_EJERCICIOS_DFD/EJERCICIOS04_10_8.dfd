@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'Ingrese la Cantidad de segundos totales a convertir'
+5
+1
+15
+SEGUNDOSTOTALES
+6
+1
+7
+MINUTOS
+18
+SEGUNDOSTOTALES/60
+6
+1
+17
+SEGUNDOSRESTANTES
+22
+SEGUNDOSTOTALES MOD 60
+4
+1
+72
+'El tiempo es: ', MINUTOS, ' minutos y ', SEGUNDOSRESTANTES, ' segundos'
+1
