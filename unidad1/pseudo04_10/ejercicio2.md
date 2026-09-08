@@ -20,4 +20,4 @@ Un motor de auto a gasolina funciona regularmente a una temperatura de entre 90 
 
 ## ARCHIVO
 
-**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD/EJERCICIO_04_10_2.dfd)
+**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD/EJERCICIOS04_10_2.dfd)
