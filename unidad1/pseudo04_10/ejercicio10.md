@@ -25,4 +25,4 @@ Implementar la lógica de una **compuerta NOT** para invertir una señal digital
 
 ## ARCHIVO
 
-**Archivo DFD:** [Descargar DFD](EJERCICIO_04_10_20.dfd)
+**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD/EJERCICIO_04_10_10.dfd)
