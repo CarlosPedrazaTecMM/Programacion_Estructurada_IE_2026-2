@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+131
+'Del 1 al 100 donde 1 es minimo y 100 es maximo, cual es la cantidad de Luz que usted considera que hay en el ambiente actualmente'
+5
+1
+5
+LUXES
+4
+1
+87
+'¿Usted ha pasado por un el lugar de la luminaria recientemente? 1 para si y 0 para no'
+5
+1
+10
+PRESCENCIA
+7
+0
+1
+10
+LUXES < 30
+7
+0
+1
+14
+PRESCENCIA = 1
+4
+1
+66
+'NIVEL DE LUZ ADECUADO Y NO HAY PRESCENCIA DETECTADA, LUZ APAGADA'
+13
+4
+1
+101
+'PRESCENCIA DETECTADA, SIN EMBARGO EL NIVEL DE LUZ EN EL AMBIENTE ES EL OPTIMO PARA VER, LUZ APAGADA'
+13
+13
+7
+0
+1
+14
+PRESCENCIA = 1
+4
+1
+99
+'LUZ AMBIENTE BAJA, ADECUADO PARA ENCENDIDO, FALTA DE PRESCENCIA NO PERMITE ENCENDIDO, LUZ APAGADA'
+13
+4
+1
+86
+'NIVEL DE LUZ AMBIENTAL ADECUADO PARA ENCENDIDO Y PRESCENCIA DETECTADA, LUZ ENCENDIDA'
+13
+13
+1
