@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'Calculadora de consumo de Watts'
+4
+1
+53
+'Introduzca el Voltaje al que trabaja su dispositivo'
+5
+1
+7
+VOLTAJE
+4
+1
+52
+'Introduzca la corriente que consume su dispositivo'
+5
+1
+9
+CORRIENTE
+6
+1
+8
+POTENCIA
+19
+VOLTAJE * CORRIENTE
+4
+1
+79
+'Esta es la potencia a la que trabaja su dispositivo ', POTENCIA , ' w (WATTS)'
+1
