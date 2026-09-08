@@ -16,10 +16,15 @@ Para este caso consideraremos que un nivel de activacion de la luminaria es meno
 3. Leer variable LUXES
 4. ESCRIBIR '¿Usted ha pasado por un el lugar de la luminaria recientemente? 1 para si y 0 para no'
 5. Leer PRESCENCIA
-6. Asignar ENCENDER ⬅ LUXES < 30
-7. Si ENCENDER = VERDADERO,PRESCENCIA = 1
-8. Escribir 'Lampara Encendida'
-9. Si no Escribir 'Lampara Apagada'
+6. Si luxes es menor a 30
+7. Si Prescencia es detectada 
+8. Escribir 'NIVEL DE LUZ AMBIENTAL ADECUADO PARA ENCENDIDO Y PRESCENCIA DETECTADA, LUZ ENCENDIDA'
+9. Si prescencia no es detectada pero luxes son menores a 30 escribir 'LUZ AMBIENTE BAJA, ADECUADO PARA ENCENDIDO, FALTA DE PRESCENCIA NO PERMITE ENCENDIDO, LUZ APAGADA'
+10. si luxes no son menores a 30 
+11. pero prescencia si es detectada
+12. escribir 'PRESCENCIA DETECTADA, SIN EMBARGO EL NIVEL DE LUZ EN EL AMBIENTE ES EL OPTIMO PARA VER, LUZ APAGADA'
+13. si luxes son mayores a 30 y prescencia no es detectada entonces
+14. Escribir 'NIVEL DE LUZ ADECUADO Y NO HAY PRESCENCIA DETECTADA, LUZ APAGADA'
 10. FIN;
 
 ## ARCHIVO     
