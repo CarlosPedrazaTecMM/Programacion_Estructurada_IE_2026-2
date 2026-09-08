@@ -24,4 +24,4 @@ En tecnología TTL, una entrada se considera un estado lógico ALTO (HIGH) váli
 
 ## ARCHIVO     
 
-**Archivo DFD:** [Descargar DFD](EJERCICIOS04_10_3.dfd)
+**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD/EJERCICIO_04_10_3.dfd)

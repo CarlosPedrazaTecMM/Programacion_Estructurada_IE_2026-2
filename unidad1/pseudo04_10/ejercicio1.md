@@ -28,5 +28,5 @@ Calcular el voltaje resultante de un componente eléctrico a partir de los valor
 
 ## ARCHIVO
 
-**Archivo DFD:** [Descargar DFD](EJERCICIOS04_10_1.dfd)
+**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD/EJERCICIO_04_10_1.dfd)
 
