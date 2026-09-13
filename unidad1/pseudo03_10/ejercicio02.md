@@ -39,4 +39,4 @@ Desarrollar un pseudocódigo que controle el encendido y apagado de un compresor
 
 ## ARCHIVO
 
-**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD_03_10)
+**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_02.psc)
