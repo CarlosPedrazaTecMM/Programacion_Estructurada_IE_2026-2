@@ -16,15 +16,15 @@ Desarrollar un algoritmo que permita confirmar una pulsación válida mediante l
 
 ## Redacción
 
-1.	Inicio;
-2.	Definir el contador de lecturas consecutivas en 0;
-3.	Definir el número de lecturas necesarias para confirmar la pulsación en X;
-4.	Escribir 'Ingrese el estado del pulsador 1 = Presionado, 0 = NO presionado';
-5.	Leer PULSADOR;
-6.	Si PULSADOR es igual a 1;
-7.	Sumar 1 al contador de lecturas consecutivas;
-8.	Si el contador alcanza 10;
-9.	Escribir 'Pulsación válida ';
+01.	Inicio;
+02.	Definir el contador de lecturas consecutivas en 0;
+03.	Definir el número de lecturas necesarias para confirmar la pulsación en X;
+04.	Escribir 'Ingrese el estado del pulsador 1 = Presionado, 0 = NO presionado';
+05.	Leer PULSADOR;
+06.	Si PULSADOR es igual a 1;
+07.	Sumar 1 al contador de lecturas consecutivas;
+08.	Si el contador alcanza 10;
+09.	Escribir 'Pulsación válida ';
 10.	Si no;
 11.	Continuar leyendo el estado del pulsador;
 12.	Si PULSADOR es igual a 0;
