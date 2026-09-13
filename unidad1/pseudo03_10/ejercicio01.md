@@ -12,22 +12,22 @@ El control de velocidad mediante rampa de aceleración permite modificar gradual
 Desarrollar un algoritmo iterativo que controle progresivamente la velocidad de un motor hasta alcanzar el valor objetivo, aplicando incrementos o decrementos constantes para representar una rampa de aceleración y desaceleración.
 
 ## Redacción
-Escrito:
-Inicio;
-Escribir "ingresa la velocidad actual de las rpms";
-Leer velocidad actual;
-Escribir "favor de ingresar la velocidad a la que se desea llegar";
-Leer velocida actual;
-Asignar DELTA = 5;
-Mientras velocidad actual sea diferente de velocidad deseada;
-Si velocidad actual es menor que velocidad deseada;
-Sumar 5 RPM a velocidad actual;
-Si no;
-Restar 5 RPM a velocidad actual;
-Escribir 'Velocidad actual: ' y mostrar el valor de velocidad actual en RPM;
-Regresar al paso donde se comprueba si VELAHOR es diferente de velocidad deseada;
-Cuando velocidad actual sea igual a velocidad deseada, escribir 'Velocidad objetivo alcanzada';
-FIN;
+1. Escrito:
+2. Inicio;
+3. Escribir "ingresa la velocidad actual de las rpms";
+4. Leer velocidad actual;
+5. Escribir "favor de ingresar la velocidad a la que se desea llegar";
+6. Leer velocida actual;
+7. Asignar DELTA = 5;
+8. Mientras velocidad actual sea diferente de velocidad deseada;
+9. Si velocidad actual es menor que velocidad deseada;
+10. Sumar 5 RPM a velocidad actual;
+11. Si no;
+12. Restar 5 RPM a velocidad actual;
+13. Escribir 'Velocidad actual: ' y mostrar el valor de velocidad actual en RPM;
+14. Regresar al paso donde se comprueba si VELAHOR es diferente de velocidad deseada;
+15. Cuando velocidad actual sea igual a velocidad deseada, escribir 'Velocidad objetivo alcanzada';
+16. FIN;
 
 ## ARCHIVO
 **Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_01.psc)
