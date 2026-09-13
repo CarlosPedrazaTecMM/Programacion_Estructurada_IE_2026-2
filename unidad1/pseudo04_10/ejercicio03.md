@@ -1,4 +1,4 @@
-# Ejercicio 3: Validación de nivel lógico TTL
+# Ejercicio 03: Validación de nivel lógico TTL
 
 ## Enunciado
 

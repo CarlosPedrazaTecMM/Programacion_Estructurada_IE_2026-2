@@ -1,4 +1,4 @@
-# Ejercicio 7: Sistema automatizado de iluminación exterior
+# Ejercicio 07: Sistema automatizado de iluminación exterior
 
 ## Enunciado
 

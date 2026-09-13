@@ -1,4 +1,4 @@
-# Ejercicio 1: Cálculo de la caída de voltaje en un componente
+# Ejercicio 01: Cálculo de la caída de voltaje en un componente
 
 ## Enunciado
 

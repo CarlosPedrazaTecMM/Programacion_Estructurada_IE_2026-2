@@ -1,4 +1,4 @@
-# Ejercicio 5: Sistema de alarma con múltiples sensores
+# Ejercicio 05: Sistema de alarma con múltiples sensores
 
 ## Enunciado
 

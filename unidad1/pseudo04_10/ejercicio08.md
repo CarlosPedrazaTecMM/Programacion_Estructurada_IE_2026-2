@@ -1,4 +1,4 @@
-# Ejercicio 8: Conversión de tiempo de ejecución
+# Ejercicio 08: Conversión de tiempo de ejecución
 
 ## Enunciado
 

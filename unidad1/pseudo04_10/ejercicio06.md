@@ -1,4 +1,4 @@
-# Ejercicio 6: Cálculo de consumo de potencia eléctrica
+# Ejercicio 06: Cálculo de consumo de potencia eléctrica
 
 ## Enunciado
 

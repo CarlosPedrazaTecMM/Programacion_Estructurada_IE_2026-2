@@ -1,4 +1,4 @@
-# Ejercicio 4: Control de encendido por paridad de pulso
+# Ejercicio 04: Control de encendido por paridad de pulso
 
 ## Enunciado
 

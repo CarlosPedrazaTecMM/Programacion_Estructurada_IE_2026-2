@@ -1,4 +1,4 @@
-# Ejercicio 2: Monitoreo de sobrecalentamiento de un motor
+# Ejercicio 02: Monitoreo de sobrecalentamiento de un motor
 
 ## Enunciado
 
