@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="IMAGENES/tecfotodos.png" alt="Tecnológico Superior de Jalisco" width="245">
+<img src="ASSETS/tecfotodos.png" alt="Tecnológico Superior de Jalisco" width="245">
 
 # Programacion_Estructurada_IE_2026-2
 
