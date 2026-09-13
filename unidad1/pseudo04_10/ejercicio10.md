@@ -3,6 +3,8 @@
 
 Desarrolla la lógica de un **módulo inyector de fallas** que reciba una señal digital de control y genere como salida la **señal invertida**.
 
+## Investigación y Supuesto Técnico
+
 El módulo deberá comportarse como una **compuerta lógica NOT**, cumpliendo con la siguiente lógica:
 
 - Si la señal de entrada es `1`, la salida será `0`.
@@ -17,11 +19,12 @@ Implementar la lógica de una **compuerta NOT** para invertir una señal digital
 ---
 # Primera instruccion:
 1. Incio;
-2. Mensaje de salida "Ingresa una señal digitial de control 1(alto), 0(bajo)
-3. almacena el dato en la variable "señal"
-4. se muestra en pantalla la señal almacenada
-5. se evalua la señal  si es 1 se invierte a 0
-6. mostrar la salida
+2. Mensaje de salida "Ingresa una señal digitial de control 1(alto), 0(bajo);
+3. almacena el dato en la variable "señal";
+4. se muestra en pantalla la señal almacenada;
+5. se evalua la señal  si es 1 se invierte a 0;
+6. mostrar la salida;
+7. fin;
 
 ## ARCHIVO
 
