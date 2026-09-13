@@ -30,4 +30,4 @@ Cuando velocidad actual sea igual a velocidad deseada, escribir 'Velocidad objet
 FIN;
 
 ## ARCHIVO
-**Archivo DFD:** [Descargar DFD](unidad1/pseudo03_10/DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_01.psc)
+**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_01.psc)
