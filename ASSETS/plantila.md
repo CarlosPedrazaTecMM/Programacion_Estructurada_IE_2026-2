@@ -4,14 +4,24 @@
 
 ## Enunciado
 
+<p align="justify">
+LOREM IPSUM
+</p>
+
 
 
 ## Investigación y Supuesto Técnico
 
+<p align="justify">
+LOREM IPSUM
+</p>
 
 
 ## Objetivo
 
+<p align="justify">
+LOREM IPSUM
+</p>
 
 
 ## Redacción
