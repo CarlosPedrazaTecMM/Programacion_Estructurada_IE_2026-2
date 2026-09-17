@@ -56,4 +56,4 @@ Detectar un posible atascamiento del motor mediante la supervisión de su corrie
 
 ## ARCHIVO
 
-**Archivo para descargar:** [Descargar](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_09.psc)
+**Archivo:** [Descargar](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_09.psc)

@@ -63,4 +63,4 @@ Desarrollar un algoritmo que controle un semáforo de dos vías, dando prioridad
 
 ## ARCHIVO
 
-**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_06.psc)
+**Archivo:** [Descargar](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_06.psc)

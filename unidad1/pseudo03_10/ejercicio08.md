@@ -58,4 +58,4 @@ Desarrollar un algoritmo que seleccione automáticamente la bomba con menor cant
 
 ## ARCHIVO
 
-**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_08.psc)
+**Archivo:** [Descargar](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_08.psc)

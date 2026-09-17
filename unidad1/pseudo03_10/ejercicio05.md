@@ -55,4 +55,4 @@ Desarrollar un algoritmo que permita contar piezas mediante un sensor óptico, d
 
 ## ARCHIVO
 
-**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_05.psc)
+**Archivo:** [Descargar](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_05.psc)

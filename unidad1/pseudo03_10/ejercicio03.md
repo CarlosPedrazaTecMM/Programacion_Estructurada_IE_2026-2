@@ -35,4 +35,4 @@ Desarrollar un algoritmo que permita confirmar una pulsación válida mediante l
 
 ## ARCHIVO
 
-**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_03.psc)
+**Archivo:** [Descargar](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_03.psc)

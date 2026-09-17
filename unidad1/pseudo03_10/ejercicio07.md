@@ -45,5 +45,5 @@ Desarrollar un algoritmo capaz de monitorear la corriente de un sensor de 4–20
 
 ## ARCHIVO
 
-**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_07.psc)
+**Archivo:** [Descargar](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_07.psc)
 

@@ -30,4 +30,4 @@ Desarrollar un algoritmo iterativo que controle progresivamente la velocidad de 
 16. FIN;
 
 ## ARCHIVO
-**Archivo DFD:** [Descargar DFD](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_01.psc)
+**Archivo:** [Descargar](DESCARGAR_EJERCICIOS_DFD_03_10/EJERCICIOS_03_10_01.psc)
