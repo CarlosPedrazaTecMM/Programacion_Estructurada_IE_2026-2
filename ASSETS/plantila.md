@@ -16,6 +16,9 @@ LOREM IPSUM
 LOREM IPSUM
 </p>
 
+<p align="justify">
+LOREM IPSUM
+</p>
 
 ## Objetivo
 
