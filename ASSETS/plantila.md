@@ -52,4 +52,4 @@ LOREM IPSUM
 
 ## ARCHIVO
 
-**Archivo para descargar:** [Descargar]()
+**Archivo:** [Descargar]()
