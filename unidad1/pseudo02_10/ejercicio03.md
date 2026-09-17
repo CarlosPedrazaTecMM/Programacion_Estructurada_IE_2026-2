@@ -56,4 +56,4 @@ Desarrollar un algoritmo que controle el acceso mediante un PIN de seguridad y l
 
 ## ARCHIVO
 
-**Archivo:** [Descargar]()
+**Archivo:** [Descargar](DESCARGAR_EJERCICIOS/EJERCICIOS_02_10_03.psc)
