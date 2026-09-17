@@ -52,4 +52,4 @@ LOREM IPSUM
 
 ## ARCHIVO
 
-**Archivo DFD:** [Descargar DFD]()
+**Archivo para descargar:** [Descargar]()
