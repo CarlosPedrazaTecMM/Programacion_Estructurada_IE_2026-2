@@ -57,8 +57,6 @@ Generar una secuencia de prueba para verificar el funcionamiento de los 8 LEDs m
 26.	Fin de la repetición; 
 27.	Fin;
 
-
-
 ## ARCHIVO
 
 **Archivo:** [Descargar](DESCARGAR_EJERCICIOS/EJERCICIOS_02_10_05.psc)
