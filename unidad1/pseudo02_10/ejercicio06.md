@@ -60,4 +60,4 @@ Controlar el llenado de un depósito de forma automatizada, manteniendo la bomba
 
 ## ARCHIVO
 
-**Archivo:** [Descargar]()
+**Archivo:** [Descargar](DESCARGAR_EJERCICIOS/EJERCICIOS_02_10_06.psc)
