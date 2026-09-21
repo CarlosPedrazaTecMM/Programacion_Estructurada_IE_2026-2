@@ -1,0 +1,159 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+95
+"escriba del 0.0 al 1 el porcentaje de calificacion o ponderacion que se le asignara al examen"
+5
+1
+10
+PONDEXAMEN
+4
+1
+96
+"escriba del 0.0 al 1 el porcentaje de calificacion o ponderacion que se le asignara a la tarea"
+5
+1
+9
+PONDTAREA
+4
+1
+97
+"escriba del 0.0 al 1 el porcentaje de calificacion o ponderacion que se le asignara al proyecto"
+5
+1
+12
+PONDPROYECTO
+6
+1
+18
+SUMAPONDERACIONES 
+37
+PONDEXAMEN + PONDTAREA + PONDPROYECTO
+6
+1
+10
+VALIDACION
+1
+0
+9
+1
+14
+VALIDACION = 1
+4
+1
+40
+"ERROR: Las ponderaciones no suman 100%"
+5
+1
+10
+PONDEXAMEN
+5
+1
+9
+PONDTAREA
+5
+1
+12
+PONDPROYECTO
+6
+1
+18
+SUMAPONDERACIONES 
+37
+PONDEXAMEN + PONDTAREA + PONDPROYECTO
+11
+4
+1
+24
+"Ponderaciones validas."
+4
+1
+31
+"ingrese calificacion examen 1"
+5
+1
+7
+EXAMEN1
+4
+1
+31
+"ingrese calificacion examen 2"
+5
+1
+7
+EXAMEN2
+4
+1
+31
+"ingrese calificacion examen 3"
+5
+1
+7
+EXAMEN3
+4
+1
+30
+"ingrese calificacion tarea 1"
+5
+1
+6
+TAREA1
+4
+1
+30
+"ingrese calificacion tarea 2"
+5
+1
+6
+TAREA2
+4
+1
+31
+"ingrese calificacion proyecto"
+5
+1
+8
+PROYECTO
+6
+1
+11
+PROMEXAMEN 
+33
+(EXAMEN1 + EXAMEN2 + EXAMEN3) / 3
+6
+1
+10
+PROMTAREA 
+21
+(TAREA1 + TAREA2) / 2
+6
+1
+18
+CALIFICACIONFINAL 
+79
+(PROMEXAMEN * PONDEXAMEN) + (PROMTAREA * PONDTAREA) + (PROYECTO * PONDPROYECTO)
+4
+1
+41
+"Calificacion final: ", CALIFICACIONFINAL
+7
+0
+1
+23
+CALIFICACIONFINAL >= 70
+4
+1
+20
+"Alumno no aprobado"
+13
+4
+1
+17
+"Alumno aprobado"
+13
+1
