@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+"favor de ingresar la cantidad de pulsos a simular"
+5
+1
+6
+PULSOS
+8
+1
+1
+i
+1
+1
+1
+1
+6
+PULSOS
+1
+1
+1
+7
+0
+1
+11
+i MOD 2 = 1
+4
+1
+26
+"Pulso ", i, ": Señal OFF"
+13
+4
+1
+25
+"Pulso ", i, ": Señal ON"
+13
+10
+1
