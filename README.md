@@ -28,7 +28,7 @@ A continuación se presentan las unidades del curso. Haz clic en cada enlace par
 - [✓] **[Unidad 1: Introducción a la Programación Estructurada](./unidad1/)**
   - Conceptos básicos, algoritmos y diagramas de flujo.
 - [✓] **[Unidad 2: Programación Báscia en C](unidad2)**
-  - Sentencias `if-else`, `switch` y lógica booleana.
+  - Comenzar a programar en C, conocer sus palabras reservadas y lógica.
 - [ ] **[Unidad 3: Estructuras Repetitivas y Bucles](unidad3/unidad3.md)**
   - Ciclos `for`, `while` y `do-while`.
 - [ ] **[Unidad 4: Funciones y Modularidad](unidad4/unidad4.md)**
