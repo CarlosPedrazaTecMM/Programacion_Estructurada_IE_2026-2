@@ -25,9 +25,9 @@ Repositorio de la clase de programacion estructurada de la carrera de ingenieria
 
 A continuación se presentan las unidades del curso. Haz clic en cada enlace para navegar a la documentación correspondiente:
 
-- [x] **[Unidad 1: Introducción a la Programación Estructurada](./unidad1/)**
+- [✓] **[Unidad 1: Introducción a la Programación Estructurada](./unidad1/)**
   - Conceptos básicos, algoritmos y diagramas de flujo.
-- [ ] **[Unidad 2: Control de Flujo y Estructuras Condicionales](unidad2/unidad2.md)**
+- [✓] **[Unidad 2: Programación Báscia en C](unidad2)**
   - Sentencias `if-else`, `switch` y lógica booleana.
 - [ ] **[Unidad 3: Estructuras Repetitivas y Bucles](unidad3/unidad3.md)**
   - Ciclos `for`, `while` y `do-while`.
