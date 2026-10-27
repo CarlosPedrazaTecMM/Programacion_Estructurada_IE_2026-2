@@ -14,7 +14,6 @@ typedef struct {
     char estado;
 } Resultado;
 
-/* Devuelve 1 si leyo una linea, -1 si era muy larga y 0 al terminar. */
 int leer_linea(char *linea)
 {
     int caracter;
@@ -33,14 +32,12 @@ int leer_linea(char *linea)
         return 1;
     }
 
-    /* Descarta el resto para que no se mezcle con la siguiente respuesta. */
     while (caracter != '\n' && caracter != EOF) {
         caracter = getchar();
     }
     return -1;
 }
 
-/* Comprueba que despues del dato solo queden espacios o saltos de linea. */
 int solo_espacios(const char *texto)
 {
     while (isspace((unsigned char)*texto)) {
@@ -142,7 +139,6 @@ int pedir_combo(float *combo)
     }
 }
 
-/* Comprueba los limites antes de convertir el desempeno a entero. */
 int calcular_resultado(char c, int v1, float v2, int rondas,
                        Resultado *resultado)
 {
@@ -164,7 +160,6 @@ int calcular_resultado(char c, int v1, float v2, int rondas,
         return 0;
     }
 
-    /* El temporal evita desbordamientos al sumar los valores enteros. */
     score_calculado = (double)v1 + rondas * 2 - v1 % 8 * 2
                      + (int)desempeno;
 
@@ -208,7 +203,6 @@ int main(void)
         }
     } while (n <= 0);
 
-    /* Guarda las respuestas para mostrar juntas las N filas al final. */
     if ((size_t)n > (size_t)-1 / sizeof(*resultados)) {
         printf("Error: la cantidad de jugadores es demasiado grande.\n");
         return 1;
